@@ -43,7 +43,6 @@ Explore all my projects on my [**portfolio website**](https://amrabson.github.io
 - 💼 [LinkedIn](http://za.linkedin.com/in/aharon-r-4b277a111)
 - 📧 [arabson@my365.bellevue.edu](mailto:arabson@my365.bellevue.edu)
 - 🗂️ [Portfolio](https://amrabson.github.io/my_portfolio/)
-- 🐙 [GitHub](https://github.com/Amrabson)
 
 ---
 
